@@ -1,3 +1,10 @@
+Andrei Shevelev:
+_This is the fork where I check **Get Week Number** function using provided libraries while adding several popular native implementations and using Jest to test on an array of dates._
+_______________
+
+
+
+
 # [You don't (may not) need Moment.js](https://you-dont-need.github.io/You-Dont-Need-Momentjs/#/)
 
 [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://dev.to/t/momentjs)
