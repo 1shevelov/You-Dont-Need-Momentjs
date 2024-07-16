@@ -26,6 +26,7 @@
   ],
   "main": "lib/index.js",
   "scripts": {
+    "test:getweek": "jest ./__tests__/getweeknum.js -bail=false",
     "test:watch": "jest --watch",
     "test": "jest --coverage",
     "test:perf": "node ./__tests__/performance.js",
